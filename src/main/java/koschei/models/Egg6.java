@@ -1,6 +1,7 @@
 package koschei.models;
 
 import org.springframework.stereotype.Component;
+
 @Component("egg")
 public class Egg6 {
     private final Needle7 needle;
