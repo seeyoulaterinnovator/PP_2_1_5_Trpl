@@ -7,8 +7,8 @@ import org.springframework.stereotype.Component;
 public class Rabbit4 {
 
     @Autowired
-    public void setRabbit(Rabbit4 rabbit) {
-        this.rabbit = rabbit;
+    public void setDuck(Duck5 duck) {
+        this.duck = duck;
     }
 
     @Override
